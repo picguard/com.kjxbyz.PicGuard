@@ -29,7 +29,7 @@ flatpak remote-add --if-not-exists flathub-beta https://flathub.org/beta-repo/fl
 ```shell
 flatpak install -y flathub org.flatpak.Builder
 
-flatpak install flathub org.freedesktop.Platform//23.08 org.freedesktop.Sdk//23.08
+flatpak install flathub org.freedesktop.Platform//25.08 org.freedesktop.Sdk//25.08
 ```
 
 ## Build and install
